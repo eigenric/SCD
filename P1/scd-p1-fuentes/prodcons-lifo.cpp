@@ -22,8 +22,7 @@ unsigned
 Semaphore
    libres(tam_vec), // Semáforo que cuenta las posiciones libres del buffer
    ocupadas(0), //Semáforo que cuenta las posiciones ocupadas del buffer
-   op_buffer(1); // Semáforo que permite ejecutar en exclusión mutua la inserción y extracción en el buffer.
-                  // Junto con los mensajes.
+   puede_acceder(1); // Semáforo para gestionar la exclusión mutua en la inserción y extracción
 
 unsigned int buffer[tam_vec], // Buffer (Pila acotada LIFO) de tam_vec elementos
             primera_libre = 0; // Índice del buffer de la primera celda libre.
@@ -35,13 +34,11 @@ unsigned int buffer[tam_vec], // Buffer (Pila acotada LIFO) de tam_vec elementos
 void mostrar_buffer()
 {
     cout << "   buffer: [";
-    for (int i=0; i < tam_vec; i++)
+    for (int i=0; i < primera_libre; i++)
     {
-        if (buffer[i] != 0) {
-            cout << buffer[i];
-            if (i < tam_vec -1)
-                cout << ","; 
-        }
+      cout << buffer[i];
+      if (i < tam_vec -1)
+         cout << ","; 
     }
     cout << "]" << endl;
 }
@@ -98,15 +95,16 @@ void  funcion_hebra_productora(  )
 
       // Inicio SC
       libres.sem_wait(); // Producir tantos datos como elementos libres haya en el buffer
-      op_buffer.sem_wait(); // Inserción en exclusión mutua con la extracción
 
-      // Inserción del dato
-      assert(0 <= primera_libre && primera_libre < tam_vec);
-      buffer[primera_libre++] = dato;
-      cout << "inserción en buffer: " << buffer[primera_libre] << endl;
-      mostrar_buffer();
+         puede_acceder.sem_wait(); // Inserción en exclusión mutua con la extracción
 
-      op_buffer.sem_signal();
+         // Inserción del dato
+         buffer[primera_libre++] = dato;
+         cout << "inserción en buffer: " << dato << endl;
+         mostrar_buffer();
+
+         puede_acceder.sem_signal();
+
       ocupadas.sem_signal(); // 
       // Fin SC
    }
@@ -122,17 +120,18 @@ void funcion_hebra_consumidora(  )
 
       // Inicio SC
       ocupadas.sem_wait(); // Espera hasta que haya al menos un elemento en el buffer
-      op_buffer.sem_wait(); // La extraccion debe ocurrir en exclusion mutua con la inserción
 
-      // Extracción del dato
-      assert(0 <= primera_libre && primera_libre < tam_vec);
-      dato = buffer[--primera_libre];
-      buffer[primera_libre] = 0;
-      cout << "extraído de buffer: " << dato << endl;
-      mostrar_buffer();
+         puede_acceder.sem_wait(); // La extraccion debe ocurrir en exclusion mutua con la inserción
 
+         // Extracción del dato
+         int indice = primera_libre;
+         dato = buffer[--primera_libre];
+         buffer[indice] = 0;
+         cout << "extraído de buffer: " << dato << endl;
+         mostrar_buffer();
 
-      op_buffer.sem_signal();
+         puede_acceder.sem_signal();
+         
       libres.sem_signal(); // Se ha extraido un elemento del buffer, queda uno mas libre
       // Fin SC
 

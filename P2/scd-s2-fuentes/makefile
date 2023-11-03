@@ -1,8 +1,8 @@
 .SUFFIXES:
 .PHONY: x, pc1, clean
 
-compilador:=g++
-opcionesc:= -std=c++11 -pthread -Wfatal-errors
+compilador:=clang++
+opcionesc:= -fsanitize=address -std=c++11 -pthread -Wfatal-errors
 
 x: monitor_em_exe
 	./$<

@@ -6,6 +6,7 @@ Repositorio para la asignatura de Sistemas Concurrentes y Distribuidos durante e
 
 - [Seminario 1](./seminario1/scd-s1-intro.pdf)
 - [Práctica 1](./P1/scd-p1-sema.pdf)
+- [Seminario 2](./P2/scd-s2-monitores.pdf)
 
 ## Licencia
 

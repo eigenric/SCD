@@ -1,2 +1,6 @@
 {
+    "files.associations": {
+        "thread": "cpp"
+    },
+    "triggerTaskOnSave.selectedTask": "Make pdf"
 }

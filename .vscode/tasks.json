@@ -15,7 +15,10 @@
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.pdf"
             ],
-            "group": "build",
+            "group": {
+                "kind": "build",
+                "glob": "**/*.md"
+            },
             "problemMatcher": [],
             "presentation": {
                 "reveal": "never",

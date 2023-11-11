@@ -10,6 +10,8 @@
 //
 // -----------------------------------------------------------------------------------
 
+// Posibilidad escribir 2 monitores
+
 
 #include <iostream>
 #include <iomanip>
@@ -86,6 +88,9 @@ class Estanco : public HoareMonitor
    void ponerIngrediente(int ingre);  // Coloca el ingrediente ingre en el mostrador
    void esperarRecogidaIngrediente(); // Espera a que el ingrediente sea recogido (mostrador quede vacío)
    void obtenerIngrediente(int i);    // Retira el ingrediente i del mostrador
+
+   void leer();             // Lee en el buffer FIFO
+   void escribir();         // Escribe en el buffer FIFO
 } ;
 // -----------------------------------------------------------------------------
 
@@ -98,6 +103,17 @@ Estanco::Estanco()
       esta_mi_ingred[i] = newCondVar();
 }
 // -----------------------------------------------------------------------------
+
+// Buffer FIFO
+Estanco::Insertar_sobre(const int fumador)
+{
+
+}
+
+Estanco::Retirar_sobre()
+{
+
+}
 
 // función que coloca el ingrediente en el mostrador
 
@@ -155,6 +171,12 @@ void fumador(int i, MRef<Estanco>  monitor )
       fumar(i);
    }
 }
+
+void funcion_contrabandista(MRef<Estanco> monitor)
+{
+   int cigarros[3] = {0, 0, 0ç;
+   }
+}
 // -----------------------------------------------------------------------------
 
 int main()
@@ -167,15 +189,16 @@ int main()
    // crear monitor  ('monitor' es una referencia al mismo, de tipo MRef<...>)
    MRef<Estanco> monitor = Create<Estanco>();
 
-   thread hebra_estanquero(estanquero, monitor);
-
-   thread hebra_fumador[num_fumadores];
+   thread hebra_estanquero(estanquero, monitor),
+          hebra_contrabandista(funcion_contrabandista, monitor),
+          hebra_fumador[num_fumadores];
 
    for (int i=0; i < num_fumadores; i++)
       hebra_fumador[i] = thread(fumador, i, monitor);
 
    // esperar a que terminen las hebras
    hebra_estanquero.join();
+   hebra_contrabandista.join();
 
    for (int i=0; i < num_fumadores; i++)
       hebra_fumador[i].join();

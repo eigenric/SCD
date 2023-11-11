@@ -3,15 +3,11 @@
 // Sistemas concurrentes y Distribuidos.
 // Seminario 2. Introducción a los monitores en C++11.
 //
-// Archivo: prodcons1_su.cpp
+// Archivo: p2_pc_impr.cpp
 //
 // Ejemplo de un monitor en C++11 con semántica SU, para el problema
-// del productor/consumidor, con productor y consumidor únicos.
-// Opcion LIFO
+// de productores consumidores FIFO con impresora
 //
-// Historial:
-// Creado el 30 Sept de 2022. (adaptado de prodcons2_su.cpp)
-// 20 oct 22 --> paso este archivo de FIFO a LIFO, para que se corresponda con lo que dicen las transparencias
 // -----------------------------------------------------------------------------------
 
 
@@ -122,47 +118,60 @@ void test_contadores()
 // *****************************************************************************
 // clase para monitor buffer, version FIFO, semántica SC, multiples prod/cons
 
-class ProdConsSU1 : public HoareMonitor
+class ProdConsImprSU : public HoareMonitor
 {
  private:
- static const int           // constantes ('static' ya que no dependen de la instancia)
-   num_celdas_total = 10;   //   núm. de entradas del buffer
- int                        // variables permanentes
-   buffer[num_celdas_total],//   buffer de tamaño fijo, con los datos
-   primera_libre ;          //   indice de celda de la próxima inserción ( == número de celdas ocupadas)
+ static const int            // constantes ('static' ya que no dependen de la instancia)
+   num_celdas_total = 10;    //   núm. de entradas del buffer
+ int                         // variables permanentes
+   buffer[num_celdas_total], //   buffer de tamaño fijo, con los datos
+   primera_libre,            //   indice de celda de la próxima inserción ( == número de celdas ocupadas)
+   primera_ocupada,          //   índice de celda de la próxima extracción
+   n,                        //   nº de elementos ne la cola
+   num_multiplos_5,          //   nº de multiplos de 5 generados en el buffer
+   num_multiplos_5_impresora;//   nº de multiplos de 5 que el metodo impresora detectó en su ultima llamada 
 
  CondVar                    // colas condicion:
    ocupadas,                //  cola donde espera el consumidor (n>0)
-   libres ;                 //  cola donde espera el productor  (n<num_celdas_total)
+   libres ,                 //  cola donde espera el productor  (n<num_celdas_total)
+   cola_impresora;          //  cola donde espera la impresora cuando no hay nuevos numeros multiplos
+                              // Condicion de sincronización: num_multiplos_5 > num_multiplos_5_impresora
 
  public:                    // constructor y métodos públicos
-   ProdConsSU1() ;             // constructor
+   ProdConsImprSU() ;             // constructor
    int  leer();                // extraer un valor (sentencia L) (consumidor)
    void escribir( int valor ); // insertar un valor (sentencia E) (productor)
+   bool metodo_impresora();   
 } ;
 // -----------------------------------------------------------------------------
 
-ProdConsSU1::ProdConsSU1(  )
+ProdConsImprSU::ProdConsImprSU(  )
 {
    primera_libre = 0 ;
-   ocupadas      = newCondVar();
-   libres        = newCondVar();
+   primera_ocupada = 0;
+   n = 0;
+   num_multiplos_5 = 0;
+   num_multiplos_5_impresora = 0;
+   ocupadas       = newCondVar();
+   libres         = newCondVar();
+   cola_impresora = newCondVar();
 }
 // -----------------------------------------------------------------------------
 // función llamada por el consumidor para extraer un dato
 
-int ProdConsSU1::leer(  )
+int ProdConsImprSU::leer(  )
 {
-   // esperar bloqueado hasta que 0 < primera_libre
-   if ( primera_libre == 0 )
+   // esperar bloqueado hasta que haya elementos
+   if ( n == 0 )
       ocupadas.wait();
 
    //cout << "leer: ocup == " << primera_libre << ", total == " << num_celdas_total << endl ;
-   assert( 0 < primera_libre  );
+   assert( 0 < n  );
 
    // hacer la operación de lectura, actualizando estado del monitor
-   primera_libre-- ;
-   const int valor = buffer[primera_libre] ;
+   const int valor = buffer[primera_ocupada];
+   primera_ocupada = (primera_ocupada + 1) % num_celdas_total;
+   n--;
    
    // señalar al productor que hay un hueco libre, por si está esperando
    libres.signal();
@@ -172,26 +181,46 @@ int ProdConsSU1::leer(  )
 }
 // -----------------------------------------------------------------------------
 
-void ProdConsSU1::escribir( int valor )
+void ProdConsImprSU::escribir( int valor )
 {
    // esperar bloqueado hasta que primera_libre < num_celdas_total
-   if ( primera_libre == num_celdas_total )
+   if ( n == num_celdas_total )
       libres.wait();
 
    //cout << "escribir: ocup == " << primera_libre << ", total == " << num_celdas_total << endl ;
-   assert( primera_libre < num_celdas_total );
+   assert( n < num_celdas_total );
 
    // hacer la operación de inserción, actualizando estado del monitor
+   // Si es multiplo de 5 actualizo el valor y señalo a la impresora
+   if (valor % 5 == 0)
+   {
+      num_multiplos_5++;
+      cola_impresora.signal();
+   }
+
    buffer[primera_libre] = valor ;
-   primera_libre++ ;
+   primera_libre = (primera_libre + 1) % num_celdas_total;
+   n++;
 
    // señalar al consumidor que ya hay una celda ocupada (por si esta esperando)
    ocupadas.signal();
 }
+
+bool ProdConsImprSU::metodo_impresora()
+{
+   if (num_multiplos_5 == num_multiplos_5_impresora)
+      cola_impresora.wait();
+   
+   cout << "************** Se han detectado " << num_multiplos_5 - num_multiplos_5_impresora << " nuevos múltiplos de 5" << endl;
+   num_multiplos_5_impresora = num_multiplos_5;
+
+   return (num_multiplos_5 < num_items / 5);
+}
+
 // *****************************************************************************
 // funciones de hebras
 
-void funcion_hebra_productora( MRef<ProdConsSU1> monitor, unsigned int i)
+void funcion_hebra_productora( MRef<ProdConsImprSU> monitor, unsigned int i)
 {
    for( unsigned j = 0 ; j < p ; j++ )
    {
@@ -201,7 +230,7 @@ void funcion_hebra_productora( MRef<ProdConsSU1> monitor, unsigned int i)
 }
 // -----------------------------------------------------------------------------
 
-void funcion_hebra_consumidora( MRef<ProdConsSU1>  monitor, unsigned int i)
+void funcion_hebra_consumidora( MRef<ProdConsImprSU>  monitor, unsigned int i)
 {
    for( unsigned j = 0 ; j < c ; j++ )
    {
@@ -211,18 +240,28 @@ void funcion_hebra_consumidora( MRef<ProdConsSU1>  monitor, unsigned int i)
 }
 // -----------------------------------------------------------------------------
 
+void funcion_hebra_impresora( MRef<ProdConsImprSU> monitor)
+{
+   bool valor = true;
+   while(valor) {
+      this_thread::sleep_for( chrono::milliseconds( aleatorio<50,100>() ));
+      valor = monitor->metodo_impresora();
+   }
+}
+
 int main()
 {
    cout << "----------------------------------------------------------------------------------------------" << endl
-        << "Problema del productor-consumidor varios productores y consumidores (Monitor SU, buffer LIFO). " << endl
+        << "Problema del productor-consumidor varios productores y consumidores (Monitor SU, buffer FIFO). " << endl
         << "-----------------------------------------------------------------------------------------------" << endl
         << flush ;
 
    thread hebra_productora[num_prod],
-          hebra_consumidora[num_cons];
+          hebra_consumidora[num_cons],
+          hebra_impresora;
 
    // crear monitor  ('monitor' es una referencia al mismo, de tipo MRef<...>)
-   MRef<ProdConsSU1> monitor = Create<ProdConsSU1>() ;
+   MRef<ProdConsImprSU> monitor = Create<ProdConsImprSU>() ;
 
    for (unsigned int i = 0; i < num_prod; i++)
       hebra_productora[i] = thread(funcion_hebra_productora, monitor, i);
@@ -230,12 +269,16 @@ int main()
    for (unsigned int i=0; i < num_cons; i++)
       hebra_consumidora[i] = thread(funcion_hebra_consumidora, monitor, i);
    
+   hebra_impresora = thread(funcion_hebra_impresora, monitor);
+
    // esperar a que terminen las hebras
    for (int i=0; i < num_prod; i++)
       hebra_productora[i].join();
 
    for (int i=0; i < num_cons; i++)
       hebra_consumidora[i].join();   
+
+   hebra_impresora.join();
 
    test_contadores() ;
 }

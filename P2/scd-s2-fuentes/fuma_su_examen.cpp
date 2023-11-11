@@ -1,12 +1,12 @@
 // -----------------------------------------------------------------------------
 //
 // Sistemas concurrentes y Distribuidos.
-// Practica 2. Problema de los fumadores con Monitores
+// Practica 2.
 //
-// Archivo: fumadores_su.cpp
+// Archivo: fumadores_su_examen.cpp
 //
 // Ejemplo de un monitor en C++11 con semántica SU, para el problema
-// de los fumadores
+// fuma_examen
 //
 // -----------------------------------------------------------------------------------
 
@@ -68,6 +68,8 @@ void fumar( int num_fumador )
 
     cout << "Fumador " << num_fumador << "  : termina de fumar, comienza espera de ingrediente." << endl;
 
+    num_fumados[num_fumador]++;
+
 }
 // *****************************************************************************
 // clase para monitor buffer, version FIFO, semántica SC, multiples prod/cons
@@ -75,11 +77,13 @@ void fumar( int num_fumador )
 class Estanco : public HoareMonitor
 {
  private:
-   int mostrador;                   // Valor -1 si está vacío, 0,1,2 para los tres ingredientes.
+   int mostrador,                        // Valor -1 si está vacío, 0,1,2 para los tres ingredientes.
+       num_fumados[num_fumadores] = {0}; // Array que almacena el numero de veces que ha fumado cada fumador
 
    CondVar mostrador_vacio,             // Variable condición que bloquea el proceso cuando el mostrador está vacío
                                         // (mostrador == -1)
-           esta_mi_ingred[num_fumadores]; // Array de variables condiciones. Hay una entrada para cada fumador
+           esta_mi_ingred[num_fumadores], // Array de variables condiciones. Hay una entrada para cada fumador
+           sanitaria;                    // Variable condicion para despertar a la hebra sanitaria
 
  public:                    // constructor y métodos públicos
    Estanco() ;              // constructor
@@ -126,7 +130,7 @@ void Estanco::obtenerIngrediente(int i)
 {
    if (mostrador != i)
       esta_mi_ingred[i].wait();
-   
+
    mostrador = -1;
 
    mostrador_vacio.signal();

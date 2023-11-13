@@ -1,12 +1,6 @@
-// -----------------------------------------------------------------------------------
-//
-// Prácticas SCD 20-21 GIM-GIADE (profesor: Carlos Ureña)
-// Simulacro de examen (Práctica 1)
-// Archivo: ejer2_sem.cpp 
-// Extension para múltiples consumidores de prod-cons LIFO con 1 prod. y 1 cons. 
-//
-// Enunciado en el simulacro:
-//
+// Alumno: Ricardo Ruiz Fernández de Alba
+// DNI: 77168601J
+
 // 2.
 //   A continuación copia ese archivo en otro llamado exactamente 'ejer2_sem.cpp', y extiende la 
 //   solución para contemplar un número arbitrario de consumidores. Dicho número vendrá dado por 

@@ -1,5 +1,4 @@
-// Alumno: Ricardo Ruiz Fernández de Alba
-// SCD - Doble Grado en Ingeniería Informática y Matemáticas 
+// Alumno: Ricardo Ruiz Fernández de Alba - DNI: 77168601J
 
 #include <iostream>
 #include <cassert>

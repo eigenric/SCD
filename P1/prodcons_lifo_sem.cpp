@@ -1,11 +1,5 @@
-// -----------------------------------------------------------------------------------
-//
-// Prácticas SCD 20-21 GIM-GIADE (profesor: Carlos Ureña)
-// Simulacro de examen (Práctica 1)
-// Archivo: 'prodcons_lifo_sem.cpp'
-// Solución con semáforos al prpblema del productor-consumidor con buffer intermedio
-// (con un productor y un consumidor, opción LIFO)
-// 
+// Alumno: Ricardo Ruiz Fernández de Alba - DNI: 77168601J
+
 // Enunciado en el simulacro:
 //
 //  1. 

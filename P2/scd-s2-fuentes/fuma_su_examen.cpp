@@ -22,6 +22,7 @@ using namespace std ;
 using namespace scd ;
 
 constexpr int num_fumadores = 3;
+int num_fumados[num_fumadores] = {0};
 
 //**********************************************************************
 // funciones comunes 
@@ -66,9 +67,9 @@ void fumar( int num_fumador )
 
    // informa de que ha terminado de fumar
 
-    cout << "Fumador " << num_fumador << "  : termina de fumar, comienza espera de ingrediente." << endl;
+   cout << "Fumador " << num_fumador << "  : termina de fumar, comienza espera de ingrediente." << endl;
 
-    num_fumados[num_fumador]++;
+   num_fumados[num_fumador]++;
 
 }
 // *****************************************************************************
@@ -77,13 +78,11 @@ void fumar( int num_fumador )
 class Estanco : public HoareMonitor
 {
  private:
-   int mostrador,                        // Valor -1 si está vacío, 0,1,2 para los tres ingredientes.
-       num_fumados[num_fumadores] = {0}; // Array que almacena el numero de veces que ha fumado cada fumador
+   int mostrador;                       // Valor -1 si está vacío, 0,1,2 para los tres ingredientes.
 
    CondVar mostrador_vacio,             // Variable condición que bloquea el proceso cuando el mostrador está vacío
                                         // (mostrador == -1)
-           esta_mi_ingred[num_fumadores], // Array de variables condiciones. Hay una entrada para cada fumador
-           sanitaria;                    // Variable condicion para despertar a la hebra sanitaria
+           esta_mi_ingred[num_fumadores]; // Array de variables condiciones. Hay una entrada para cada fumador
 
  public:                    // constructor y métodos públicos
    Estanco() ;              // constructor
@@ -136,6 +135,54 @@ void Estanco::obtenerIngrediente(int i)
    mostrador_vacio.signal();
 }
 
+class Hospital : public HoareMonitor
+{
+ private:
+   int num_fumador_sanitaria; // Índice del fumador que ha fumado por 5ta vez
+
+   CondVar sanitaria,    // Variable condición que bloquea a la hebra sanitaria hasta que hayan fumado 5 fumadores
+           vicioso[num_fumadores];  // Variables condicion que bloquea al fumador i tras el aviso
+
+ public:                    // constructor y métodos públicos
+   Hospital() ;              // constructor
+   void avisoFumar();  // Espera hasta que haya fumado 5 fumadores.s
+   void intentaDespertarSanitaria(unsigned int i);  // Espera hasta que haya fumado 5 fumadores.s
+   void reciboAvisoVicioso();  // El fumador recibe el aviso de la hebra sanitaria
+} ;
+// -----------------------------------------------------------------------------
+
+Hospital::Hospital()
+{
+   sanitaria = newCondVar();
+   
+   for (int i=0; i < num_fumadores; i++)
+      vicioso[i] = newCondVar();
+}
+
+// -----------------------------------------------------------------------------
+
+void Hospital::avisoFumar()
+{
+   sanitaria.wait();
+   cout << "FUMAR MATA: ya lo sabes, fumador " << num_fumador_sanitaria << endl;
+   vicioso[num_fumador_sanitaria].wait();
+}
+
+void Hospital::intentaDespertarSanitaria(unsigned int i)
+{
+   if (num_fumados[i] == 5)
+   {
+      num_fumador_sanitaria = i;
+      sanitaria.signal();
+      reciboAvisoVicioso();
+   }
+}
+
+void Hospital::reciboAvisoVicioso()
+{
+   vicioso[num_fumador_sanitaria].signal();
+   cout << "Soy el fumador " << num_fumador_sanitaria << " y me han llamado vicioso" << endl;
+}
 
 // *****************************************************************************
 // funciones de hebras
@@ -151,12 +198,22 @@ void estanquero( MRef<Estanco> monitor )
 }
 // -----------------------------------------------------------------------------
 
-void fumador(int i, MRef<Estanco>  monitor )
+void fumador(int i, MRef<Estanco>  estanco, MRef<Hospital> hospital)
 {
    while (true)
    {
-      monitor->obtenerIngrediente(i);
+      estanco->obtenerIngrediente(i);
       fumar(i);
+      hospital->intentaDespertarSanitaria(i);
+   }
+}
+// -----------------------------------------------------------------------------
+
+void funcion_hebra_sanitaria(MRef<Hospital> hospital)
+{
+   while (true)
+   {
+      hospital->avisoFumar();
    }
 }
 // -----------------------------------------------------------------------------
@@ -169,18 +226,20 @@ int main()
         << flush ;
 
    // crear monitor  ('monitor' es una referencia al mismo, de tipo MRef<...>)
-   MRef<Estanco> monitor = Create<Estanco>();
+   MRef<Estanco> estanco = Create<Estanco>();
+   MRef<Hospital> hospital = Create<Hospital>();
 
-   thread hebra_estanquero(estanquero, monitor);
+   thread hebra_estanquero(estanquero, estanco),
+          hebra_sanitaria(funcion_hebra_sanitaria, hospital);
 
    thread hebra_fumador[num_fumadores];
 
    for (int i=0; i < num_fumadores; i++)
-      hebra_fumador[i] = thread(fumador, i, monitor);
+      hebra_fumador[i] = thread(fumador, i, estanco, hospital);
 
-   // esperar a que terminen las hebras
+   // Basta esperar a una hebra pues se ejecuta continuamente 
    hebra_estanquero.join();
 
-   for (int i=0; i < num_fumadores; i++)
-      hebra_fumador[i].join();
+   // for (int i=0; i < num_fumadores; i++)
+   //    hebra_fumador[i].join();
 }

@@ -1,3 +1,5 @@
+// Alumno: Ricardo Ruiz Fernández de Alba - DNI: 77168601J
+
 #include <iostream>
 #include <cassert>
 #include <thread>

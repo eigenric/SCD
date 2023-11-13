@@ -1,3 +1,5 @@
+// Alumno: Ricardo Ruiz Fernández de Alba - DNI: 77168601J
+
 // -----------------------------------------------------------------------------------
 //
 // Prácticas SCD 20-21 GIM-GIADE (profesor: Carlos Ureña)

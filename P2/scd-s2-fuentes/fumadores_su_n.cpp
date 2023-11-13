@@ -1,3 +1,5 @@
+// Alumno: Ricardo Ruiz Fernandez de Alba - DNI: 77168601J
+
 // -----------------------------------------------------------------------------
 //
 // Sistemas concurrentes y Distribuidos.

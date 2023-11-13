@@ -1,4 +1,5 @@
-// Ricardo Ruiz Fernandez de Alba - DGIIM
+// Alumno: Ricardo Ruiz Fernandez de Alba - DNI: 77168601J
+
 // -----------------------------------------------------------------------------
 // Sistemas concurrentes y Distribuidos.
 // Seminario 2. Introducción a los monitores en C++11.

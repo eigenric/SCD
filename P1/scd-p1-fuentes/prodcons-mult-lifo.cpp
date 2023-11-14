@@ -25,10 +25,10 @@ unsigned
    cont_cons[num_items] = {0}, // contadores de verificación: para cada dato, número de veces que se ha consumido.
    siguiente_dato       = 0 ;  // siguiente dato a producir en 'producir_dato' (solo se usa ahí)
 
-Semaphore libres = tam_vec, // Array de semáforo que cuenta las posiciones libres del buffer para el productor i-ésimo
-          ocupadas = 0; //Semáforo que cuenta las posiciones ocupadas del buffer
+Semaphore libres(tam_vec), // Array de semáforo que cuenta las posiciones libres del buffer para el productor i-ésimo
+          ocupadas(0), //Semáforo que cuenta las posiciones ocupadas del buffer
+          puede_acceder(1); // Semáforo para inserción y extracción del buffer.
 
-mutex mtx, mtx_msg;
 
 unsigned int buffer[tam_vec]; // Buffer (Pila acotada LIFO) de tam_vec elementos
 unsigned int producidos[num_prod] = {0};
@@ -101,10 +101,10 @@ void  funcion_hebra_productora( unsigned int i )
       int dato = producir_dato(i, j) ;
       
       libres.sem_wait();
-         mtx.lock();
+         puede_acceder.sem_wait();
             buffer[primera_libre++] = dato;
             cout << "inserción en buffer: " << dato << " (hebra " << i << ")" << endl;
-         mtx.unlock();
+         puede_acceder.sem_signal();
       ocupadas.sem_signal();
    }
 }
@@ -119,12 +119,10 @@ void funcion_hebra_consumidora( unsigned int i )
    for( unsigned j = 0; j < c; j++ )
    {
       ocupadas.sem_wait();
-         mtx.lock();
-            // int indice = primera_libre -1;
+         puede_acceder.sem_wait();
             dato = buffer[--primera_libre];
-            // buffer[indice] = 0;
             cout << "extraído de buffer:  " << dato << " (hebra " << i << ")" << endl;
-         mtx.unlock();
+         puede_acceder.sem_signal();
       libres.sem_signal();
 
       consumir_dato(dato);

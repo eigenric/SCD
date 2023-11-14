@@ -26,15 +26,14 @@ unsigned
    siguiente_dato       = 0 ;  // siguiente dato a producir en 'producir_dato' (solo se usa ahí)
 
 Semaphore libres = tam_vec, // Array de semáforo que cuenta las posiciones libres del buffer para el productor i-ésimo
-          ocupadas = 0; //Semáforo que cuenta las posiciones ocupadas del buffer
-
-mutex mtx_lectura, mtx_escritura;
+          ocupadas = 0, //Semáforo que cuenta las posiciones ocupadas del buffer
+          puede_escribir(1),  // Semáforo que garantiza la exclusión mutua entre productores.
+          puede_leer(1);  // Semáforo que garantiza la exclusión mutua entre consumidores
 
 unsigned int buffer[tam_vec], // Buffer (Pila acotada LIFO) de tam_vec elementos
              producidos[num_prod] = {0}, // Array compartido que almacena el nº de elementos producidos por cada hebra productora
              primera_libre = 0,     // Posición de la primera celda libre en el buffer (FIFO)
              primera_ocupada = 0;   // Posición de la primera celda ocupada en el buffer (FIFO)
-      ;
 
 //**********************************************************************
 // funciones comunes a las dos soluciones (fifo y lifo)
@@ -100,11 +99,11 @@ void  funcion_hebra_productora( unsigned int i )
       int dato = producir_dato(i, j) ;
       
       libres.sem_wait();
-         mtx_escritura.lock();
+         puede_escribir.sem_wait();
             buffer[primera_libre] = dato;
             primera_libre = (primera_libre + 1) % tam_vec;
             cout << "inserción en buffer: " << dato << " (hebra " << i << ")" << endl;
-         mtx_escritura.unlock();
+         puede_escribir.sem_signal();
       ocupadas.sem_signal();
    }
 }
@@ -119,11 +118,11 @@ void funcion_hebra_consumidora( unsigned int i )
    for( unsigned j = 0; j < c; j++ )
    {
       ocupadas.sem_wait();
-         mtx_lectura.lock();
+         puede_leer.sem_wait();
             dato = buffer[primera_ocupada];
             primera_ocupada = (primera_ocupada + 1) % tam_vec;
             cout << "extraído de buffer:  " << dato << " (hebra " << i << ")" << endl;
-         mtx_lectura.unlock();
+         puede_leer.sem_signal();
       libres.sem_signal();
       
       consumir_dato(dato);

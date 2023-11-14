@@ -1,5 +1,5 @@
 // Alumno: Ricardo Ruiz Fernández de Alba - DNI: 77168601J
-s
+
 #include <iostream>
 #include <cassert>
 #include <thread>
@@ -15,7 +15,7 @@ using namespace scd ;
 
 const unsigned 
    num_items = 40 ,   // número de items
-	tam_vec   = 10 ;   // tamaño del buffer
+	tam_vec   = 5 ;   // tamaño del buffer
 unsigned  
    cont_prod[num_items] = {0}, // contadores de verificación: para cada dato, número de veces que se ha producido.
    cont_cons[num_items] = {0}, // contadores de verificación: para cada dato, número de veces que se ha consumido.
@@ -26,9 +26,10 @@ Semaphore
    ocupadas(0), //Semáforo que cuenta las posiciones ocupadas del buffer
    puede_acceder(1); // Semáforo para gestionar la exclusión mutua en la inserción y extracción
 
-unsigned int buffer[tam_vec], // Buffer (Pila acotada LIFO) de tam_vec elementos
+int buffer[tam_vec], // Buffer (Pila acotada LIFO) de tam_vec elementos
             primera_libre = 0; // Índice del buffer de la primera celda libre.
 
+unsigned int n = 0; // Nº de elementos ocupados en el buffer
 //**********************************************************************
 // funciones comunes a las dos soluciones (fifo y lifo)
 //----------------------------------------------------------------------
@@ -39,8 +40,8 @@ void mostrar_buffer()
     for (int i=0; i < primera_libre; i++)
     {
       cout << buffer[i];
-      if (i < tam_vec -1)
-         cout << ","; 
+      if (i < primera_libre -1)
+         cout << ", "; 
     }
     cout << "]" << endl;
 }
@@ -95,6 +96,9 @@ void  funcion_hebra_productora(  )
    {
       int dato = producir_dato() ;
 
+      if (n == 0)
+         cout << "El buffer está vacío. Consumidor espera al productor" << endl;
+
       // Inicio SC
       libres.sem_wait(); // Producir tantos datos como elementos libres haya en el buffer
 
@@ -104,6 +108,7 @@ void  funcion_hebra_productora(  )
          buffer[primera_libre++] = dato;
          cout << "inserción en buffer: " << dato << endl;
          mostrar_buffer();
+         n++;
 
          puede_acceder.sem_signal();
 
@@ -121,6 +126,9 @@ void funcion_hebra_consumidora(  )
       int dato ;
 
       // Inicio SC
+      if (n == tam_vec)
+         cout << "El buffer está lleno. Productor espera al consumidor" << endl;
+
       ocupadas.sem_wait(); // Espera hasta que haya al menos un elemento en el buffer
 
          puede_acceder.sem_wait(); // La extraccion debe ocurrir en exclusion mutua con la inserción
@@ -128,9 +136,10 @@ void funcion_hebra_consumidora(  )
          // Extracción del dato
          int indice = primera_libre;
          dato = buffer[--primera_libre];
-         buffer[indice] = 0;
+         buffer[indice] = -1;
          cout << "extraído de buffer: " << dato << endl;
          mostrar_buffer();
+         n--;
 
          puede_acceder.sem_signal();
          

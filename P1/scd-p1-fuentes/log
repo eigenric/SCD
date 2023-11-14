@@ -1,0 +1,168 @@
+-----------------------------------------------------------------
+Problema de los productores-consumidores (solución LIFO).
+------------------------------------------------------------------
+producido: 25 (hebra 5)
+inserción en buffer: 25 (hebra 5)
+extraído de buffer:  25 (hebra 0)
+producido: producido: 30 (hebra 35 (hebra 7)
+inserción en buffer: 35 (hebra 7)
+6)
+extraído de buffer:  35 (hebra 1)
+inserción en buffer: 30 (hebra 6)
+extraído de buffer:  30 (hebra 3)
+producido: 5 (hebra 1)
+inserción en buffer: 5 (hebra 1)
+extraído de buffer:  5 (hebra 4)
+producido: 0 (hebra 0)
+inserción en buffer: 0 (hebra 0)
+extraído de buffer:  0 (hebra 2)
+producido: 26 (hebra 5)
+inserción en buffer: 26 (hebra 5)
+producido: 15 (hebra 3)
+inserción en buffer: 15 (hebra 3)
+producido: 1 (hebra 0)
+inserción en buffer: 1 (hebra 0)
+                  consumido: 25
+extraído de buffer:  1 (hebra 0)
+producido: 20 (hebra 4)
+inserción en buffer: 20 (hebra 4)
+producido: 10 (hebra                   consumido: 2)
+inserción en buffer: 10 (hebra 2)
+0
+extraído de buffer:  10 (hebra 2)
+producido: 16 (hebra 3)
+inserción en buffer: 16 (hebra 3)
+                  consumido: 35
+extraído de buffer:  16 (hebra 1)
+producido: 6 (hebra 1)
+inserción en buffer: 6 (hebra 1)
+producido: 31 (hebra 6)
+inserción en buffer: 31 (hebra 6)
+producido: 27 (hebra 5)
+inserción en buffer: 27 (hebra 5)
+producido: 2 (hebra 0)
+inserción en buffer: 2 (hebra 0)
+producido: 11 (hebra 2)
+inserción en buffer: 11 (hebra 2)
+producido: 32 (hebra 6)
+inserción en buffer: 32 (hebra 6)
+producido: 21 (hebra 4)
+inserción en buffer: 21 (hebra 4)
+                  consumido: 16
+extraído de buffer:  21 (hebra 1)
+producido: 36 (hebra 7)
+inserción en buffer: 36 (hebra 7)
+                  consumido: 30
+extraído de buffer:  36 (hebra 3)
+                  consumido: 5
+extraído de buffer:  32 (hebra 4)
+                  consumido: 10
+extraído de buffer:  11 (hebra 2)
+producido: 17 (hebra 3)
+inserción en buffer: 17 (hebra 3)
+producido: 12 (hebra 2)
+inserción en buffer: 12 (hebra 2)
+                  consumido: 1
+extraído de buffer:  12 (hebra 0)
+producido: 28 (hebra 5)
+inserción en buffer: 28 (hebra 5)
+                  consumido: 21
+extraído de buffer:  28 (hebra 1)
+                  consumido: 32
+extraído de buffer:  17 (hebra 4)
+                  consumido: 36
+extraído de buffer:  2 (hebra 3)
+producido: 3 (hebra 0)
+inserción en buffer: 3 (hebra 0)
+producido: 7 (hebra 1)
+inserción en buffer: 7 (hebra 1)
+producido: 13 (hebra 2)
+inserción en buffer: 13 (hebra 2)
+                  consumido: 11
+extraído de buffer:  13 (hebra 2)
+producido: 22 (hebra 4)
+inserción en buffer: 22 (hebra 4)
+                  consumido: 2
+extraído de buffer:  22 (hebra 3)
+producido: 37 (hebra 7)
+inserción en buffer: 37 (hebra 7)
+                  consumido: 28
+extraído de buffer:  37 (hebra 1)
+producido: 33 (hebra 6)
+inserción en buffer: 33 (hebra 6)
+                  consumido: 12
+extraído de buffer:  33 (hebra 0)
+producido: 8 (hebra 1)
+inserción en buffer: 8 (hebra 1)
+producido: 18producido: 23 (hebra 4)
+inserción en buffer: 23 (hebra 4)
+ (hebra 3)
+                  consumido: 22
+extraído de buffer:  23 (hebra 3)
+inserción en buffer: 18 (hebra 3)
+                  consumido: 17
+extraído de buffer:  18 (hebra 4)
+producido: 4 (hebra 0)
+inserción en buffer: 4 (hebra 0)
+producido: 14 (hebra 2)
+                  consumido: 33
+extraído de buffer:  4 (hebra 0)
+inserción en buffer: 14 (hebra 2)
+                  consumido: 13
+extraído de buffer:  14 (hebra 2)
+producido: 29 (hebra 5)
+inserción en buffer: 29 (hebra 5)
+                  consumido: 37
+extraído de buffer:  29 (hebra 1)
+producido: 24 (hebra 4)
+inserción en buffer: 24 (hebra 4)
+producido: 38 (hebra 7)
+                  consumido: 14
+extraído de buffer:  24 (hebra 2)
+inserción en buffer: 38 (hebra 7)
+producido: 34 (hebra 6)
+                  consumido: 18
+extraído de buffer:  38 (hebra 4)
+inserción en buffer: 34 (hebra 6)
+producido: 19 (hebra 3)
+                  consumido: 4
+extraído de buffer:  34 (hebra 0)
+inserción en buffer: 19 (hebra 3)
+                  consumido: 23
+extraído de buffer:  19 (hebra 3)
+producido: 9 (hebra 1)
+inserción en buffer: 9 (hebra 1)
+producido: 39 (hebra 7)
+                  consumido: 29
+extraído de buffer:  9 (hebra 1)
+inserción en buffer: 39 (hebra 7)
+                  consumido: 38
+extraído de buffer:  39 (hebra 4)
+                  consumido: 24
+extraído de buffer:  8 (hebra 2)
+                  consumido: 19
+extraído de buffer:  7 (hebra 3)
+                  consumido: 8
+extraído de buffer:  3 (hebra 2)
+                  consumido: 9
+extraído de buffer:  27 (hebra 1)
+                  consumido: 7
+extraído de buffer:  31 (hebra 3)
+                  consumido: 39
+extraído de buffer:  6 (hebra 4)
+                  consumido: 34
+extraído de buffer:  20 (hebra 0)
+                  consumido: 27
+                  consumido: 3
+                  consumido: 20
+extraído de buffer:  15 (hebra 0)
+                  consumido: 6
+extraído de buffer:  26 (hebra 4)
+                  consumido: 31
+                  consumido: 26
+                  consumido: 15
+fin
+comprobando contadores ....
+comprobando nº producidos por hebra ....
+
+solución (aparentemente) correcta.

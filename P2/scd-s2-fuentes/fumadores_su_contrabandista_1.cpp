@@ -1,6 +1,5 @@
 // Alumno: Ricardo Ruiz Fernandez de Alba - DNI: 77168601J
 
-// -----------------------------------------------------------------------------
 //
 // Sistemas concurrentes y Distribuidos.
 // Practica 2. Problema de los fumadores con Monitores
@@ -12,7 +11,6 @@
 //
 // -----------------------------------------------------------------------------------
 
-// Posibilidad escribir 2 monitores
 
 
 #include <iostream>
@@ -176,8 +174,8 @@ void fumador(int i, MRef<Estanco>  monitor )
 
 void funcion_contrabandista(MRef<Estanco> monitor)
 {
-   int cigarros[3] = {0, 0, 0ç;
-   }
+   int cigarros[3] = {0, 0, 0};
+
 }
 // -----------------------------------------------------------------------------
 

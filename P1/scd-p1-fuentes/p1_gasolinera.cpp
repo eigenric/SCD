@@ -24,18 +24,23 @@ int surtidores_ocupados = 0;  // Nº de surtidores en uso <= C+D
 
 Semaphore
    surtidor_diesel_libre(C), // Semáforo que cuenta el número de surtidores de diesel libres.
-   surtidor_gasolina_libre(D); // Semáforo que cuenta el número de surtidorws de gasolina libres.
+   surtidor_gasolina_libre(D), // Semáforo que cuenta el número de surtidorws de gasolina libres.
+   uso_surtidor(1);          // Semáforo para garantizar exclusión mutua cuando un surtidor 
+                              // empieza o terminar de estar en uso. 
 
-Semaphore
-   mtx_cout(1);
+Semaphore msg(1);        // Garantizar mensajes cout de repostar en exclusión mutua.
 
 void repostar(unsigned int n, string combustible)
 {
+   msg.sem_wait();
    cout << "Coche número " << n << " de " << combustible << " comienza a repostar." << endl;
+   msg.sem_signal();
 
    this_thread::sleep_for( chrono::milliseconds( aleatorio<5,50>() ));
-
+   
+   msg.sem_wait();
    cout << "Coche número " << n << " de " << combustible << " termina de repostar." << endl;
+   msg.sem_signal();
 }
 
 void funcion_hebra_gasoil(unsigned int n)
@@ -45,17 +50,17 @@ void funcion_hebra_gasoil(unsigned int n)
       // Se espera hasta que quede surtidor diesel libre. Si hay ocupa y disminuye
       surtidor_diesel_libre.sem_wait();
 
-      mtx_cout.sem_wait();
+      uso_surtidor.sem_wait();
       surtidores_ocupados++;
       cout << "El número de surtidores en uso ahora es " << surtidores_ocupados << endl;
-      mtx_cout.sem_signal();
+      uso_surtidor.sem_signal();
 
       repostar(n, "diesel");
 
-      mtx_cout.sem_wait();
+      uso_surtidor.sem_wait();
       surtidores_ocupados--;
       cout << "El número de surtidores en uso ahora es " << surtidores_ocupados << endl;
-      mtx_cout.sem_signal();
+      uso_surtidor.sem_signal();
 
       // Se termina de respotar y queda surtior diesel libre
       surtidor_diesel_libre.sem_signal();
@@ -74,18 +79,19 @@ void funcion_hebra_gasolina(unsigned int m)
       // Se espera hasta que quede surtidor gasolina libre. Si hay ocupa y disminuye
       surtidor_gasolina_libre.sem_wait();
 
-      mtx_cout.sem_wait();
+      uso_surtidor.sem_wait();
       surtidores_ocupados++;
       cout << "El número de surtidores en uso ahora es " << surtidores_ocupados << endl;
-      repostar(m, "gasolina");
-      mtx_cout.sem_signal();
+      uso_surtidor.sem_signal();
 
-      mtx_cout.sem_wait();
+      repostar(m, "gasolina");
+
+      uso_surtidor.sem_wait();
       surtidores_ocupados--;
 //      surtidores_gasolina_ocupados--;
 //      cout << "El número de surtidores gasolina en uso ahora es " << surtidores_gasolina_ocupados << endl;
       cout << "El número de surtidores en uso ahora es " << surtidores_ocupados << endl;
-      mtx_cout.sem_signal();
+      uso_surtidor.sem_signal();
 
       // Se termina de respotar y queda surtior gasolina libre
       surtidor_gasolina_libre.sem_signal();

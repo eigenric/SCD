@@ -26,8 +26,7 @@ Semaphore
    ocupadas(0); //Semáforo que cuenta las posiciones ocupadas del buffer
 
 
-unsigned int
-   buffer[tam_vec] = {0}, // Buffer (Cola circular FIFO) de tam_vec elementos
+int buffer[tam_vec] = {0}, // Buffer (Cola circular FIFO) de tam_vec elementos
    primera_libre = 0, // Índice en el buffer de la primera celda libre
    primera_ocupada = 0; // Índice en el buffer de la primera celda ocupada
 
@@ -106,12 +105,11 @@ void funcion_hebra_consumidora(  )
    {
       int dato ;
 
-      // Inicio SC
       ocupadas.sem_wait(); // Consumir cuando haya al menos un elemento en el buffer
 
          // Extracción del dato. 
          dato = buffer[primera_ocupada];
-         buffer[primera_ocupada] = 0;
+         buffer[primera_ocupada] = -1;
          primera_ocupada = (primera_ocupada +1) % tam_vec;
          cout << "extraido de buffer: " << dato << endl;
 

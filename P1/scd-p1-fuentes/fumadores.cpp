@@ -15,7 +15,7 @@ using namespace scd ;
 
 const int num_fumadores = 3 ;
 Semaphore mostr_vacio(1), // Semáforo que toma 1 cuando el mostrador está vacío y 0 en caso contrario.
-          ingr_disp[3] = {0, 0, 0}; // Semáforo que indica si el ingrediente i está disponible
+          ingr_disp[num_fumadores] = {0, 0, 0}; // Semáforo que indica si el ingrediente i está disponible
 
 //-------------------------------------------------------------------------
 // Función que simula la acción de producir un ingrediente, como un retardo
@@ -104,7 +104,7 @@ int main()
    // Basta esperar a algun hebras para que no termine el programa.
    hebra_estanquero.join();
 
-// No es necesario esperar a los fumadores pues no terminan.s
+// No es necesario esperar a los fumadores pues no terminan.
 //    for (int i=0; i < num_fumadores; i++)
 //       hebra_fumador[i].join();
 

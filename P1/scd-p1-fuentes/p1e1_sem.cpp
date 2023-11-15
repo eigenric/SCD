@@ -11,11 +11,13 @@
 using namespace std ;
 using namespace scd ;
 
-// numero de fumadores 
-
+// Constante para el número de fumadores
 const int num_fumadores = 3 ;
-Semaphore mostr_vacio(1), // Semáforo que toma 1 cuando el mostrador está vacío y 0 en caso contrario.
+
+Semaphore mostr_vacio(1),    // Semáforo que se bloquea cuando el mostrador está vacío
           ingr_disp[num_fumadores] = {0, 0, 0}; // Semáforo que indica si el ingrediente i está disponible
+
+Semaphore msg(1);          // Semáforo para garantizar la exclusión mutua en la salida por pantalla
 
 //-------------------------------------------------------------------------
 // Función que simula la acción de producir un ingrediente, como un retardo
@@ -65,16 +67,18 @@ void fumar( int num_fumador )
 
    // informa de que comienza a fumar
 
-    cout << "Fumador " << num_fumador << "  :"
+   msg.sem_wait();
+   cout << "Fumador " << num_fumador << "  :"
           << " empieza a fumar (" << duracion_fumar.count() << " milisegundos)" << endl;
+   msg.sem_signal();
 
    // espera bloqueada un tiempo igual a ''duracion_fumar' milisegundos
    this_thread::sleep_for( duracion_fumar );
 
    // informa de que ha terminado de fumar
-
+   msg.sem_wait();
     cout << "Fumador " << num_fumador << "  : termina de fumar, comienza espera de ingrediente." << endl;
-
+   msg.sem_signal();
 }
 
 //----------------------------------------------------------------------

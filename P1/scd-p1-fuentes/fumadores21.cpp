@@ -1,4 +1,4 @@
-// Alumno: Ricardo Ruiz Fernández de Alba - DNI: 77168601J
+// Alumnno: Ricardo Ruiz Fernández de Alba - DNI: 77168601J
 
 #include <iostream>
 #include <cassert>
@@ -11,11 +11,13 @@
 using namespace std ;
 using namespace scd ;
 
-// numero de fumadores 
-
+// Número de fumadores 
 const int num_fumadores = 3 ;
-Semaphore mostr_vacio(1), // Semáforo que se bloquea cuando el mostrador está vacío
-          ingr_disp[num_fumadores] = {0, 0, 0}; // Semáforo que indica si el ingrediente i está disponible
+
+Semaphore ingr_disp[num_fumadores] = {0, 0, 0}, // Semáforos que se bloquean hasta que el ingrediente i está disponible
+          ingr_ret[num_fumadores] = {0, 0, 0}; // Semáforos que se bloquean hasta que el fumador i ha retirado su ingrediente. 
+
+Semaphore msg(1); // Semáforo para garantizar la exclusión mutua entre mensajes por pantalla
 
 //-------------------------------------------------------------------------
 // Función que simula la acción de producir un ingrediente, como un retardo
@@ -27,15 +29,19 @@ int producir_ingrediente()
    chrono::milliseconds duracion_produ( aleatorio<10,100>() );
 
    // informa de que comienza a producir
+   msg.sem_wait();
    cout << "Estanquero : empieza a producir ingrediente (" << duracion_produ.count() << " milisegundos)" << endl;
+   msg.sem_signal();
 
    // espera bloqueada un tiempo igual a ''duracion_produ' milisegundos
    this_thread::sleep_for( duracion_produ );
 
    const int num_ingrediente = aleatorio<0,num_fumadores-1>() ;
 
+   msg.sem_wait();
    // informa de que ha terminado de producir
    cout << "Estanquero : termina de producir ingrediente " << num_ingrediente << endl;
+   msg.sem_signal();
 
    return num_ingrediente ;
 }
@@ -47,10 +53,23 @@ void funcion_hebra_estanquero(  )
 {
    while (true)
    {
-      int i = producir_ingrediente();
-      mostr_vacio.sem_wait(); // Esperar a que el mostrador esté vacío
-         cout << "puesto ingr.: " << i << endl;
-      ingr_disp[i].sem_signal(); // El ingrediente i está sobre el mostrador.
+      // Ingrediente X
+      int ingreX = producir_ingrediente();
+
+      // Ingrediente Y. Debe ser diferente a X.
+      int ingreY = producir_ingrediente();
+      while (ingreX == ingreY)
+         ingreY = producir_ingrediente();
+
+      cout << "....... ESTANQUERO HA PRODUCIDO LOS INGREDIENTES " << ingreX << " e " << ingreY << endl;
+      cout << "puesto ingr. X: " << ingreX << endl;
+      cout << "puesto ingr. Y: " << ingreY << endl;
+
+      ingr_disp[ingreX].sem_signal(); // El ingrediente X está sobre el mostrador.
+      ingr_disp[ingreY].sem_signal(); // El ingrediente Y está sobre el mostrador.
+
+      ingr_ret[ingreX].sem_wait(); // Espera a que el primer fumador seleccionado recoja el ingrediente X
+      ingr_ret[ingreY].sem_wait(); // Espera a que el segunda fumador seleccionado recoja el ingrediente Y
    }
 }
 
@@ -65,15 +84,19 @@ void fumar( int num_fumador )
 
    // informa de que comienza a fumar
 
+   msg.sem_wait();
     cout << "Fumador " << num_fumador << "  :"
           << " empieza a fumar (" << duracion_fumar.count() << " milisegundos)" << endl;
+   msg.sem_signal();
 
    // espera bloqueada un tiempo igual a ''duracion_fumar' milisegundos
    this_thread::sleep_for( duracion_fumar );
 
    // informa de que ha terminado de fumar
 
+   msg.sem_wait();
     cout << "Fumador " << num_fumador << "  : termina de fumar, comienza espera de ingrediente." << endl;
+   msg.sem_signal();
 
 }
 
@@ -83,9 +106,11 @@ void  funcion_hebra_fumador( int num_fumador )
 {
    while (true)
    {
-      ingr_disp[num_fumador].sem_wait(); // Esperar a que el ingrediente i esté sobre el mostrador.
+      ingr_disp[num_fumador].sem_wait(); // Esperar a que el ingrediente del fumador esté sobre el mostrador.
+         msg.sem_wait();
          cout << "retirado ingr.: " << num_fumador << endl;
-      mostr_vacio.sem_signal(); // El mostrador ha quedado vacío tras retirar el fumador su ingrediente.
+         msg.sem_signal();
+      ingr_ret[num_fumador].sem_signal(); // Se señala que se ha retirado el ingrediente del fumador
       fumar(num_fumador);
    }
 }
@@ -101,7 +126,7 @@ int main()
    for (int i=0; i < num_fumadores; i++)
       hebra_fumador[i] = thread(funcion_hebra_fumador, i);
    
-   // Basta esperar a algun hebras para que no termine el programa.
+   // Bastaría esperar a alguna hebra para que no termine el programa.
    hebra_estanquero.join();
 
    for (int i=0; i < num_fumadores; i++)

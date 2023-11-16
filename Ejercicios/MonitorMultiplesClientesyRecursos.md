@@ -1,6 +1,6 @@
 ---
 title: "Monitor SU para múltiples clientes y recursos"
-subtitle: "Sistemas Concurrentes y Distribuidos."
+subtitle: "Sistemas Concurrentes y Distribuidos. DGIIM"
 author: ["Ricardo Ruiz Fernández de Alba"]
 date: "08/11/2023"
 subject: "Sistemas Concurrentes y Distribuidos"
@@ -77,7 +77,7 @@ end
 
 Así pues, los procesos clientes $P_i$ llamarán al procedimiento pedir con parámetro el identificador $i$ del proceso.
 
-Este procedimiento busca en el array de libres el primer recurso disponible. Si todos los recursos están ocupados, se termina con `k=m` y `libre[k$]=false`.
+Este procedimiento busca en el array de libres el primer recurso disponible. Si todos los recursos están ocupados, se termina con `k=m` y `libre[k]=false`.
 En ese caso, se quqeda bloqueado en la cola de la variable condición no_peticion y con el valor `peticion[id_proceso] = true` hasta que haya un recurso disponible.
 
 Cuando otro proceso llame al procedimiento devolver con parámetro el número de recurso, almacenará `I := id_recurso` como el último recurso liberado y se busca la primera petición pendiente, actualizando `peticion[j] := false` y señalando al proceso que tiene petición pendiente.

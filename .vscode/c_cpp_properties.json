@@ -3,7 +3,8 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/usr/lib/aarch64-linux-gnu/openmpi/include/**"
             ],
             "defines": [],
             "macFrameworkPath": [

@@ -10,6 +10,12 @@
 // Actualizado a C++11 en Septiembre de 2017
 // -----------------------------------------------------------------------------
 
+// Usar ssend y forzar a que el proceso 0 no pueda pasar a la siguiente
+// iteración hasta que el mensaje llegue al ultimo de los procesos.
+
+// Habra que hacer que el proceso 0 espera mensaje del ultimo
+// cuando reciba del ultimo puede volver a recibir del teclado.
+
 #include <iostream>
 #include <mpi.h>
 
@@ -40,6 +46,7 @@ int main( int argc, char *argv[] )
          {
             cout << "Introduce un número aquí debajo (-1 para acabar): " << endl ;
             cin >> valor ;        //     pedir valor por teclado (-1 para acabar)
+            // Usar ssend
          }
          else                     // si no soy el primer proceso: recibirlo
             MPI_Recv( &valor, 1, MPI_INT, id_anterior, 0, MPI_COMM_WORLD, &estado );
@@ -51,6 +58,8 @@ int main( int argc, char *argv[] )
          // si no soy el último (si hay siguiente): enviar valor,
          if ( id_siguiente < num_procesos_actual )
             MPI_Send( &valor, 1, MPI_INT, id_siguiente, 0, MPI_COMM_WORLD );
+         else
+            // Recibir el mensaje del proceso 0
       }
       while( valor >= 0 ); // acaba cuando se teclea un valor negativo
    }

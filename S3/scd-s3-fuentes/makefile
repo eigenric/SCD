@@ -12,6 +12,9 @@ x2: sendrecv1_mpi_exe
 x3: sendrecv2_mpi_exe
 	mpirun -oversubscribe -np 5 ./$<
 
+x3mod: sendrecv22_mpi_exe
+	mpirun -oversubscribe -np 5 ./$<
+
 x4: ejemplo_probe_mpi_exe
 	mpirun -oversubscribe -np 10 ./$<
 

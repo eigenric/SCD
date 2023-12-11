@@ -1,0 +1,995 @@
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 7 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 10 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 3 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+El coche 7 acaba repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 7 está solicitando entrar a surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 2 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 9 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 5 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 4 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 13 acaba repostaje en surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 7 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 4 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 1 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 5 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 5 acaba repostaje en surtidor tipo 1
+El coche 3 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 11 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 6 acaba repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 0 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 2 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 10 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 5 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 9 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 4 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 13 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 5 acaba repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 4 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 11 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 8 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 9 acaba repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 5 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 3 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 9 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 4 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+El coche 13 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 8 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 3 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 5 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 12 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 0 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 1 acaba repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 2 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 2 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 12 está solicitando entrar a surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 10 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 5 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 5 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 9 acaba repostaje en surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 0 está solicitando entrar a surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 12 acaba repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 3 acaba repostaje en surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repoEl coche 6 acaba repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 6 acaba repostaje en surtidor tipo 2
+El coche 6 está solicitando entrar a surtidor tipo 2
+El coche 6 inicia repostaje en surtidor tipo 2
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 3 inicia repostaje en surtidor tipo 1
+El coche 3 acaba repostaje en surtidor tipo 1
+El coche 3 está solicitando entrar a surtidor tipo 1
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 11 acaba repostaje en surtidor tipo 2
+El coche 11 está solicitando entrar a surtidor tipo 2
+El coche 11 inicia repostaje en surtidor tipo 2
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 0 acaba repostaje en surtidor tipo 1
+El coche 0 está solicitando entrar a surtidor tipo 1
+El coche 0 inicia repostaje en surtidor tipo 1
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 13 acaba repostaje en surtidor tipo 2
+El coche 13 está solicitando entrar a surtidor tipo 2
+El coche 13 inicia repostaje en surtidor tipo 2
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 2 acaba repostaje en surtidor tipo 1
+El coche 2 está solicitando entrar a surtidor tipo 1
+El coche 2 inicia repostaje en surtidor tipo 1
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 12 acaba repostaje en surtidor tipo 0
+El coche 12 está solicitando entrar a surtidor tipo 0
+El coche 12 inicia repostaje en surtidor tipo 0
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 1 inicia repostaje en surtidor tipo 2
+El coche 1 acaba repostaje en surtidor tipo 2
+El coche 1 está solicitando entrar a surtidor tipo 2
+El coche 5 acaba repostaje en surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 5 acaba repostaje en surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 5 acaba repostaje en surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 5 acaba repostaje en surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 5 acaba repostaje en surtidor tipo 1
+El coche 5 está solicitando entrar a surtidor tipo 1
+El coche 5 inicia repostaje en surtidor tipo 1
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 7 inicia repostaje en surtidor tipo 0
+El coche 7 acaba repostaje en surtidor tipo 0
+El coche 7 está solicitando entrar a surtidor tipo 0
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 9 acaba repostaje en surtidor tipo 2
+El coche 9 está solicitando entrar a surtidor tipo 2
+El coche 9 inicia repostaje en surtidor tipo 2
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 8 inicia repostaje en surtidor tipo 0
+El coche 8 acaba repostaje en surtidor tipo 0
+El coche 8 está solicitando entrar a surtidor tipo 0
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 4 inicia repostaje en surtidor tipo 1
+El coche 4 acaba repostaje en surtidor tipo 1
+El coche 4 está solicitando entrar a surtidor tipo 1
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+El coche 10 inicia repostaje en surtidor tipo 2
+El coche 10 acaba repostaje en surtidor tipo 2
+El coche 10 está solicitando entrar a surtidor tipo 2
+star' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
+Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
+Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
+Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
+Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
+Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
+Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0

@@ -7,6 +7,7 @@
 // Implementación del problema del productor-consumidor con
 // un proceso intermedio que recibe mensajes síncronos de forma alterna.
 // (versión con un único productor y un único consumidor)
+// El buffer solo tiene capacidad para un elemento
 //
 // Historial:
 // Actualizado a C++11 en Septiembre de 2017

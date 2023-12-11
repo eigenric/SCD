@@ -137,7 +137,6 @@ void funcion_buffer()
             MPI_Ssend( &valor, 1, MPI_INT, id_consumidor, 0, MPI_COMM_WORLD);
             break;
       }
-      cout << "Num celdas ocupadas: " << num_celdas_ocupadas << endl;
    }
 }
 

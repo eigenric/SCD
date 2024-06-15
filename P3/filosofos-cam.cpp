@@ -129,18 +129,18 @@ void funcion_tenedores( int id )
 void funcion_camarero( int id )
 {
    int s = 0; // Número de filósofos sentados
-   int valor, id_filosofo, etiq_aceptable;
+   int valor, id_filosofo, etiq_aceptada;
    MPI_Status estado;
 
    
    while (true)
    {
       if (s < num_filosofos - 1)
-         etiq_aceptable = MPI_ANY_TAG;
+         etiq_aceptada = MPI_ANY_TAG;
       else
-         etiq_aceptable = etiq_levantarse;
+         etiq_aceptada = etiq_levantarse;
 
-      MPI_Recv(&valor, 1, MPI_INT, MPI_ANY_SOURCE, etiq_aceptable, MPI_COMM_WORLD, &estado);
+      MPI_Recv(&valor, 1, MPI_INT, MPI_ANY_SOURCE, etiq_aceptada, MPI_COMM_WORLD, &estado);
       id_filosofo = estado.MPI_SOURCE;
 
 

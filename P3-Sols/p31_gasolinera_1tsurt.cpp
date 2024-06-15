@@ -73,7 +73,7 @@ void funcion_gasolinera( )
       valor          = 0,  // valor recibido o enviado 
       id_coche       = 0,  // identificador del coche que quiere empezar a repostar o acabar
       ns_libres      = num_surtidores ,  // número de surtidores libres ahora mismo
-      etiq_aceptable = 0;  // etiqueta aceptable (dependen del número de surtidores libres)
+      etiq_aceptada = 0;  // etiqueta aceptable (dependen del número de surtidores libres)
    MPI_Status 
       estado ;                // metadatos de las dos recepciones
 
@@ -82,13 +82,13 @@ void funcion_gasolinera( )
       // (1) determinar la etiqueta o etiquetas que se pueden aceptar:
 
       if ( ns_libres > 0)
-         etiq_aceptable = MPI_ANY_TAG;
+         etiq_aceptada = MPI_ANY_TAG;
       else 
-         etiq_aceptable = etiq_terminar;
+         etiq_aceptada = etiq_terminar;
 
       // (2) recibir el mensaje con esa etiqueta o etiquetas
 
-      MPI_Recv( &valor, 1, MPI_INT, MPI_ANY_SOURCE, etiq_aceptable, MPI_COMM_WORLD, &estado );
+      MPI_Recv( &valor, 1, MPI_INT, MPI_ANY_SOURCE, etiq_aceptada, MPI_COMM_WORLD, &estado );
       
       // (3) procesar el mensaje recibido.
 

@@ -1,995 +1,2281 @@
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 7 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 10 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 3 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-El coche 7 acaba repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 7 está solicitando entrar a surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 2 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 9 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 5 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 4 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 13 acaba repostaje en surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 7 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 4 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 1 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 5 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 5 acaba repostaje en surtidor tipo 1
-El coche 3 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 11 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 6 acaba repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 0 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 2 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 10 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 5 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 9 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 4 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 13 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 5 acaba repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 4 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 11 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 8 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 9 acaba repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 5 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 3 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 9 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 4 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-El coche 13 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 8 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 3 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 5 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 12 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 0 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 1 acaba repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 2 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 2 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 12 está solicitando entrar a surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 10 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 5 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 5 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 9 acaba repostaje en surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 0 está solicitando entrar a surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 12 acaba repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 3 acaba repostaje en surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repoEl coche 6 acaba repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 6 acaba repostaje en surtidor tipo 2
-El coche 6 está solicitando entrar a surtidor tipo 2
-El coche 6 inicia repostaje en surtidor tipo 2
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 3 inicia repostaje en surtidor tipo 1
-El coche 3 acaba repostaje en surtidor tipo 1
-El coche 3 está solicitando entrar a surtidor tipo 1
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 11 acaba repostaje en surtidor tipo 2
-El coche 11 está solicitando entrar a surtidor tipo 2
-El coche 11 inicia repostaje en surtidor tipo 2
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 0 acaba repostaje en surtidor tipo 1
-El coche 0 está solicitando entrar a surtidor tipo 1
-El coche 0 inicia repostaje en surtidor tipo 1
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 13 acaba repostaje en surtidor tipo 2
-El coche 13 está solicitando entrar a surtidor tipo 2
-El coche 13 inicia repostaje en surtidor tipo 2
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 2 acaba repostaje en surtidor tipo 1
-El coche 2 está solicitando entrar a surtidor tipo 1
-El coche 2 inicia repostaje en surtidor tipo 1
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 12 acaba repostaje en surtidor tipo 0
-El coche 12 está solicitando entrar a surtidor tipo 0
-El coche 12 inicia repostaje en surtidor tipo 0
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 1 inicia repostaje en surtidor tipo 2
-El coche 1 acaba repostaje en surtidor tipo 2
-El coche 1 está solicitando entrar a surtidor tipo 2
-El coche 5 acaba repostaje en surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 5 acaba repostaje en surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 5 acaba repostaje en surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 5 acaba repostaje en surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 5 acaba repostaje en surtidor tipo 1
-El coche 5 está solicitando entrar a surtidor tipo 1
-El coche 5 inicia repostaje en surtidor tipo 1
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 7 inicia repostaje en surtidor tipo 0
-El coche 7 acaba repostaje en surtidor tipo 0
-El coche 7 está solicitando entrar a surtidor tipo 0
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 9 acaba repostaje en surtidor tipo 2
-El coche 9 está solicitando entrar a surtidor tipo 2
-El coche 9 inicia repostaje en surtidor tipo 2
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 8 inicia repostaje en surtidor tipo 0
-El coche 8 acaba repostaje en surtidor tipo 0
-El coche 8 está solicitando entrar a surtidor tipo 0
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 4 inicia repostaje en surtidor tipo 1
-El coche 4 acaba repostaje en surtidor tipo 1
-El coche 4 está solicitando entrar a surtidor tipo 1
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-El coche 10 inicia repostaje en surtidor tipo 2
-El coche 10 acaba repostaje en surtidor tipo 2
-El coche 10 está solicitando entrar a surtidor tipo 2
-star' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 1 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 6 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 9 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 3 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 0 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 2 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 13 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 8 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 10 para surtidor tipo 2
-Gasolinera: procesado 'inicio de repostar' de coche 11 para surtidor tipo 2
-Gasolinera: procesado 'fin de repostar' de coche 4 para surtidor tipo 1
-Gasolinera: procesado 'inicio de repostar' de coche 5 para surtidor tipo 1
-Gasolinera: procesado 'fin de repostar' de coche 7 para surtidor tipo 0
-Gasolinera: procesado 'inicio de repostar' de coche 12 para surtidor tipo 0
-Gasolinera: procesado 'fin de repostar' de coche 8 para surtidor tipo 0
+Filósofo 4 solicita sentarse en mesa
+Filósofo 0 solicita sentarse en mesa
+Filósofo 1 solicita sentarse en mesa
+Filósofo 3 solicita sentarse en mesa
+Filósofo 2 solicita sentarse en mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+TAM RECIBIDO: 2
+Filósofo 2 solicita ten. izq.3
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 2 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 4 solicita ten. izq.5
+Filósofo 1 solicita ten. izq.2
+Filósofo 4 solicita ten. der.3
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 3 solicita ten. izq.4
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Ten. 9 ha sido cogido por filo. 0
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Ten. 3 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filosofo 4 comienza a pensar
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 suelta ten. izq. 1
+Filósofo 4 solicita sentarse en mesa
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 0 suelta ten. der. 9
+Filósofo 2 comienza a comer
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filosofo 0 comienza a pensar
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 4 comienza a comer
+Ten. 3 ha sido cogido por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 4 suelta ten. izq. 5
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. der. 3
+Ten. 3 ha sido liberado por filo. 8
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+Filósofo 0 solicita sentarse en mesa
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 3 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 solicita sentarse en mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 2 solicita ten. izq.3
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Filósofo 4 solicita sentarse en mesa
+Filósofo 0 solicita ten. der.9
+Ten. 1 ha sido cogido por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 0 suelta ten. der. 9
+Filósofo 2 comienza a comer
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 4 comienza a comer
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 0 solicita sentarse en mesa
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 0 solicita ten. izq.1
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 4 suelta ten. izq. 5
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Ten. 3 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filosofo 4 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Ten. 3 ha sido cogido por filo. 4
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 4 solicita sentarse en mesa
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filósofo 0 solicita ten. der.9
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 4 solicita ten. izq.5
+Ten. 9 ha sido cogido por filo. 0
+Filosofo 2 comienza a pensar
+Filósofo 0 comienza a comer
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+Filosofo 0 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 4 suelta ten. izq. 5
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. der. 3
+Ten. 3 ha sido liberado por filo. 8
+Filósofo 4 solicita levantarse de la mesa
+Filósofo 2 solicita ten. der.1
+Ten. 3 ha sido cogido por filo. 4
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+Filosofo 4 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filósofo 4 solicita sentarse en mesa
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 3 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita sentarse en mesa
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 4 -------
+Filosofo 2 comienza a pensar
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+------- no_ciclos_necesarios * 10 = 10
+Ten. 1 ha sido cogido por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 2 solicita sentarse en mesa
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 5 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 2 solicita ten. izq.3
+Filosofo 0 comienza a pensar
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 solicita levantarse de la mesa
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 5 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 4 comienza a comer
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 2 suelta ten. der. 1
+Filósofo 0 solicita sentarse en mesa
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 5 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita ten. izq.1
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filosofo 2 comienza a pensar
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 5 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 2 solicita ten. izq.3
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Ten. 1 ha sido liberado por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+Filosofo 2 comienza a pensar
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Filósofo 4 solicita sentarse en mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+Filósofo 4 solicita ten. izq.5
+TAMAÑO: 0
+Ten. 5 ha sido cogido por filo. 8
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 5 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 4 comienza a comer
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 0 solicita sentarse en mesa
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 solicita levantarse de la mesa
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filosofo 4 comienza a pensar
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filósofo 0 solicita ten. izq.1
+TAMAÑO: 1
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 4 solicita sentarse en mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+Filósofo 4 solicita ten. izq.5
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 0 suelta ten. izq. 1
+Filósofo 2 solicita sentarse en mesa
+Ten. 1 ha sido liberado por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filósofo 2 solicita ten. izq.3
+TAMAÑO: 1
+Filosofo 0 comienza a pensar
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita sentarse en mesa
+Filósofo 4 suelta ten. izq. 5
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filosofo 4 comienza a pensar
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+Filósofo 0 solicita ten. izq.1
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. der. 1
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filosofo 2 comienza a pensar
+Filósofo 0 solicita ten. der.9
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+--[L]-- Filósofo 4 se levanta de la mesa
+Filósofo 2 solicita sentarse en mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Filósofo 2 solicita ten. izq.3
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Filósofo 4 solicita sentarse en mesa
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 0 suelta ten. der. 9
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+Filósofo 0 solicita levantarse de la mesa
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filosofo 0 comienza a pensar
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Filósofo 2 suelta ten. der. 1
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+Filósofo 2 solicita sentarse en mesa
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Ten. 3 ha sido liberado por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filosofo 4 comienza a pensar
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 4 solicita sentarse en mesa
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+Filósofo 4 solicita ten. izq.5
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filosofo 0 comienza a pensar
+Filósofo 2 comienza a comer
+Filósofo 0 solicita sentarse en mesa
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filósofo 4 comienza a comer
+Ten. 1 ha sido liberado por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Ten. 1 ha sido cogido por filo. 0
+Filosofo 2 comienza a pensar
+Filósofo 0 solicita ten. izq.1
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 2 solicita sentarse en mesa
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filosofo 0 comienza a pensar
+Filósofo 2 solicita ten. izq.3
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filósofo 4 solicita levantarse de la mesa
+--[L]-- Filósofo 8 se levanta de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 2 comienza a comer
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Ten. 3 ha sido liberado por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Ten. 9 ha sido cogido por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Filosofo 2 comienza a pensar
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 8
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 3 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Filósofo 2 solicita sentarse en mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 2 solicita ten. izq.3
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 4 solicita sentarse en mesa
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Filósofo 2 suelta ten. der. 1
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Filosofo 2 comienza a pensar
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+Filósofo 2 solicita sentarse en mesa
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Filósofo 2 solicita ten. izq.3
+Filósofo 0 solicita sentarse en mesa
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Filósofo 4 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+Ten. 3 ha sido cogido por filo. 4
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filosofo 4 comienza a pensar
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 comienza a comer
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+Filósofo 4 solicita ten. der.3
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Ten. 5 ha sido cogido por filo. 8
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Filósofo 4 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filosofo 4 comienza a pensar
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 8
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Filósofo 2 solicita sentarse en mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Filósofo 2 solicita ten. izq.3
+Filósofo 0 solicita sentarse en mesa
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 4 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filosofo 4 comienza a pensar
+TAMAÑO: 1
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita ten. izq.1
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 2 solicita ten. der.1
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Filósofo 2 comienza a comer
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 2 unidades de propina!!!
+Filósofo 0 solicita ten. izq.1
+Filósofo 4 solicita sentarse en mesa
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. der. 1
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+Ten. 3 ha sido cogido por filo. 8
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Ten. 5 ha sido cogido por filo. 8
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 2 unidades de propina!!!
+Filósofo 0 comienza a comer
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Ten. 3 ha sido liberado por filo. 8
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 2 unidades de propina!!!
+Filósofo 2 solicita ten. der.1
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. der. 1
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filosofo 2 comienza a pensar
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 8
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita sentarse en mesa
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 4 solicita levantarse de la mesa
+Filósofo 2 solicita ten. der.1
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+Filosofo 4 comienza a pensar
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 comienza a comer
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 4 solicita sentarse en mesa
+Filósofo 2 suelta ten. izq. 3
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 4 solicita ten. izq.5
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 4 solicita ten. der.3
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 1 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Ten. 1 ha sido cogido por filo. 4
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 suelta ten. izq. 3
+Filósofo 4 solicita sentarse en mesa
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+Filosofo 2 comienza a pensar
+Filósofo 0 solicita ten. der.9
+Ten. 9 ha sido cogido por filo. 0
+Ten. 3 ha sido cogido por filo. 8
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 0 comienza a comer
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita sentarse en mesa
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 0 solicita ten. izq.1
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 2 unidades de propina!!!
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 4 solicita sentarse en mesa
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Ten. 1 ha sido liberado por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Ten. 1 ha sido cogido por filo. 0
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 0 solicita ten. der.9
+Ten. 3 ha sido cogido por filo. 8
+Ten. 9 ha sido cogido por filo. 0
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filosofo 2 comienza a pensar
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+Ten. 1 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Ten. 1 ha sido cogido por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+Filósofo 2 solicita sentarse en mesa
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Filosofo 4 comienza a pensar
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Ten. 9 ha sido cogido por filo. 0
+Filosofo 2 comienza a pensar
+Filósofo 0 comienza a comer
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+Ten. 9 ha sido liberado por filo. 0
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 2 solicita ten. der.1
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 4 solicita sentarse en mesa
+Filósofo 2 suelta ten. izq. 3
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. der. 1
+Filósofo 0 solicita ten. der.9
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 2 unidades de propina!!!
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 4 solicita ten. izq.5
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 0 comienza a comer
+Filósofo 4 comienza a comer
+Ten. 3 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Ten. 5 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+Ten. 3 ha sido cogido por filo. 4
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+Filósofo 0 suelta ten. der. 9
+Ten. 9 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+Filósofo 0 solicita sentarse en mesa
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 comienza a comer
+Filósofo 2 solicita sentarse en mesa
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 2 solicita ten. izq.3
+Filosofo 0 comienza a pensar
+Ten. 5 ha sido liberado por filo. 8
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 solicita levantarse de la mesa
+Ten. 1 ha sido liberado por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+Filosofo 2 comienza a pensar
+Ten. 1 ha sido cogido por filo. 0
+--[L]-- Filósofo 4 se levanta de la mesa
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+Filósofo 2 solicita ten. der.1
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 4 solicita sentarse en mesa
+Filósofo 0 suelta ten. izq. 1
+Filósofo 2 comienza a comer
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+Filósofo 4 solicita ten. izq.5
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 comienza a comer
+Filósofo 2 solicita levantarse de la mesa
+Ten. 1 ha sido liberado por filo. 4
+Filosofo 2 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 0 solicita ten. izq.1
+Ten. 9 ha sido cogido por filo. 0
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 2 solicita sentarse en mesa
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 1 ha sido liberado por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+Filósofo 2 solicita ten. izq.3
+Filosofo 0 comienza a pensar
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 4 solicita sentarse en mesa
+Ten. 3 ha sido liberado por filo. 4
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 4 solicita ten. izq.5
+Ten. 3 ha sido cogido por filo. 8
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Ten. 5 ha sido cogido por filo. 8
+Filósofo 0 suelta ten. izq. 1
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+Ten. 9 ha sido liberado por filo. 0
+Filosofo 0 comienza a pensar
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Ten. 5 ha sido liberado por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+Filósofo 0 solicita sentarse en mesa
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Filósofo 4 solicita sentarse en mesa
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Ten. 3 ha sido liberado por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Ten. 3 ha sido cogido por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 9 ha sido cogido por filo. 0
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Ten. 1 ha sido liberado por filo. 0
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Ten. 9 ha sido liberado por filo. 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Ten. 3 ha sido liberado por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+Filósofo 2 solicita sentarse en mesa
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 2 solicita ten. izq.3
+Ten. 3 ha sido cogido por filo. 4
+Filósofo 2 solicita ten. der.1
+Ten. 1 ha sido cogido por filo. 4
+Filósofo 2 comienza a comer
+Filósofo 0 solicita sentarse en mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+Filósofo 0 solicita sentarse en mesa
+Filósofo 0 solicita ten. izq.1
+Filósofo 0 solicita ten. der.9
+Filósofo 0 comienza a comer
+Filósofo 0 suelta ten. izq. 1
+Filósofo 0 suelta ten. der. 9
+Filósofo 0 solicita levantarse de la mesa
+Filosofo 0 comienza a pensar
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 4 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 10
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 1 -------
+------- no_ciclos_necesarios * 10 = 0
+>>>>>>>>>>>>>>>>>> ¡¡¡He alcanzado ya en total 1 unidades de propina!!!
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+TAMAÑO: 1
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 1
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 2 -------
+------- no_ciclos_necesarios * 10 = 10
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROFilósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Filósofo 2 solicita sentarse en mesa
+Filósofo 2 solicita ten. izq.3
+Filósofo 2 solicita ten. der.1
+Filósofo 2 comienza a comer
+Filósofo 2 suelta ten. izq. 3
+Filósofo 2 suelta ten. der. 1
+Filósofo 2 solicita levantarse de la mesa
+Filosofo 2 comienza a pensar
+Ten. 5 ha sido cogido por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 5 ha sido liberado por filo. 8
+Ten. 5 ha sido cogido por filo. 8
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 0
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Ten. 1 ha sido cogido por filo. 0
+Ten. 1 ha sido liberado por filo. 0
+Ten. 1 ha sido cogido por filo. 4
+Ten. 1 ha sido liberado por filo. 4
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Filósofo 4 suelta ten. izq. 5
+Filósofo 4 suelta ten. der. 3
+Filósofo 4 solicita levantarse de la mesa
+Filosofo 4 comienza a pensar
+Filósofo 4 solicita sentarse en mesa
+Filósofo 4 solicita ten. izq.5
+Filósofo 4 solicita ten. der.3
+Filósofo 4 comienza a comer
+Ten. 9 ha sido cogido por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+Ten. 9 ha sido cogido por filo. 0
+Ten. 9 ha sido liberado por filo. 0
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+Ten. 3 ha sido liberado por filo. 8
+Ten. 3 ha sido cogido por filo. 4
+Ten. 3 ha sido liberado por filo. 4
+Ten. 3 ha sido cogido por filo. 8
+PINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa
+TAM RECIBIDO: 2
+PROPINA RECIBIDA: 2
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 8 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 3
+PROPINA RECIBIDA: 3
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 8 se levanta de la mesa
+TAM RECIBIDO: 4
+PROPINA RECIBIDA: 4
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 0 se levanta de la mesa
+TAM RECIBIDO: 5
+PROPINA RECIBIDA: 5
+TAM2: 0
+TAMAÑO: 0
+--[S]-- Filósofo 0 se sienta en la mesa, ha enviado propina de 0
+----- PROPINA TOTAL 0 -------
+------- no_ciclos_necesarios * 10 = 0
+TAM RECIBIDO: 1
+PROPINA RECIBIDA: 1
+TAM2: 1
+--[L]-- Filósofo 4 se levanta de la mesa

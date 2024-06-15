@@ -81,7 +81,7 @@ void funcion_coche( int id )
 void funcion_gasolinera( )
 {
    int        valor_rec      = 0,  // valor recibido
-              etiq_aceptable = 0;  // etiqueta aceptable (dependen del número de surtidores libres)
+              etiq_aceptada = 0;  // etiqueta aceptable (dependen del número de surtidores libres)
    MPI_Status estado ;             // metadatos de las dos recepciones
 
    while ( true )

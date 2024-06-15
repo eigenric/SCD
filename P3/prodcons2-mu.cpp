@@ -106,7 +106,7 @@ void funcion_buffer()
               primera_libre       = 0, // índice de primera celda libre
               primera_ocupada     = 0, // índice de primera celda ocupada
               num_celdas_ocupadas = 0, // número de celdas ocupadas
-              etiq_aceptable ;    // identificador de emisor aceptable
+              etiq_aceptada ;    // identificador de emisor aceptable
             
    MPI_Status estado ;                 // metadatos del mensaje recibido
 
@@ -115,15 +115,15 @@ void funcion_buffer()
       // 1. determinar si puede enviar solo prod., solo cons, o todos
 
       if ( num_celdas_ocupadas == 0 )               // si buffer vacío
-         etiq_aceptable = etiq_productor ;       // $~~~$ solo prod.
+         etiq_aceptada = etiq_productor ;       // $~~~$ solo prod.
       else if ( num_celdas_ocupadas == tam_vector ) // si buffer lleno
-         etiq_aceptable = etiq_consumidor;      // $~~~$ solo cons.
+         etiq_aceptada = etiq_consumidor;      // $~~~$ solo cons.
       else                                          // si no vacío ni lleno
-         etiq_aceptable = MPI_ANY_TAG ;     // $~~~$ cualquiera
+         etiq_aceptada = MPI_ANY_TAG ;     // $~~~$ cualquiera
 
       // 2. recibir un mensaje del emisor o emisores aceptables
 
-      MPI_Recv( &valor, 1, MPI_INT, MPI_ANY_SOURCE, etiq_aceptable, MPI_COMM_WORLD, &estado );
+      MPI_Recv( &valor, 1, MPI_INT, MPI_ANY_SOURCE, etiq_aceptada, MPI_COMM_WORLD, &estado );
 
       // 3. procesar el mensaje recibido
 
